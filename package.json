@@ -38,7 +38,7 @@
     "gulp-sourcemaps": "^2.6.0",
     "keypather": "^3.0.0",
     "lodash": "^4.17.11",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "mobile-detect": "^1.4.3",
     "mssql": "^5.1.0",
     "notifications-node-client": "^4.6.0",

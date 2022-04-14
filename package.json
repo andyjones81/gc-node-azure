@@ -11,7 +11,7 @@
   "dependencies": {
     "acorn": "^6.0.5",
     "ansi-colors": "^3.2.3",
-    "async": "^3.0.1",
+    "async": "^3.2.2",
     "basic-auth": "^2.0.0",
     "basic-auth-connect": "^1.0.0",
     "body-parser": "^1.14.1",
